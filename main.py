@@ -6,6 +6,7 @@ if __name__ == "__main__":
     app = QApplication()
     view = QQuickView()
 
+    # view.setSource("1_hello_world.qml")
     view.setSource("1_hello_world.qml")
 
     view.show()
