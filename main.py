@@ -9,7 +9,8 @@ if __name__ == "__main__":
     # view.setSource("1_hello_world.qml")
     # view.setSource("2_rectangles.qml")
     # view.setSource("3_text_underline.qml")
-    view.setSource("4_images.qml")
+    # view.setSource("4_images.qml")
+    view.setSource("5_progress_bar.qml")
 
     view.show()
     sys.exit(app.exec())
