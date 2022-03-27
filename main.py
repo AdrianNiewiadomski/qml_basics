@@ -13,7 +13,8 @@ if __name__ == "__main__":
     # view.setSource("5_progress_bar.qml")
     # view.setSource("6_border_images.qml")
 
-    view.setSource("grid.qml")
+    # view.setSource("grid.qml")
+    view.setSource("repeater.qml")
 
     view.show()
     sys.exit(app.exec())
