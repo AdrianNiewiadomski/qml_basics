@@ -21,7 +21,8 @@ if __name__ == "__main__":
     # view.setSource("repeater5.qml")
     # view.setSource("repeater6.qml")
 
-    view.setSource("listView.qml")
+    # view.setSource("listView.qml")
+    view.setSource("listView2.qml")
 
     view.show()
     sys.exit(app.exec())
