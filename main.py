@@ -7,7 +7,8 @@ if __name__ == "__main__":
     view = QQuickView()
 
     # view.setSource("1_hello_world.qml")
-    view.setSource("1_hello_world.qml")
+    # view.setSource("2_rectangles.qml")
+    view.setSource("3_text_underline.qml")
 
     view.show()
     sys.exit(app.exec())
