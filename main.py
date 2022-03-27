@@ -14,7 +14,8 @@ if __name__ == "__main__":
     # view.setSource("6_border_images.qml")
 
     # view.setSource("grid.qml")
-    view.setSource("repeater.qml")
+    # view.setSource("repeater.qml")
+    view.setSource("repeater2.qml")
 
     view.show()
     sys.exit(app.exec())
