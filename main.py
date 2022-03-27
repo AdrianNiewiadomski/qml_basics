@@ -11,7 +11,9 @@ if __name__ == "__main__":
     # view.setSource("3_text_underline.qml")
     # view.setSource("4_images.qml")
     # view.setSource("5_progress_bar.qml")
-    view.setSource("6_border_images.qml")
+    # view.setSource("6_border_images.qml")
+
+    view.setSource("grid.qml")
 
     view.show()
     sys.exit(app.exec())
