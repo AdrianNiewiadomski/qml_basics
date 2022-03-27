@@ -24,7 +24,8 @@ if __name__ == "__main__":
     # view.setSource("listView.qml")
     # view.setSource("listView2.qml")
     # view.setSource("listView3.qml")
-    view.setSource("listView4.qml")
+    # view.setSource("listView4.qml")
+    view.setSource("listView5.qml")
 
     view.show()
     sys.exit(app.exec())
